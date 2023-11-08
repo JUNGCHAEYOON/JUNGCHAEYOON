@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&fontColor=ffffff&text=늦었다고%20생각할%20때가%20아직%20한발%20남았다&fontSize=40&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&fontColor=ffffff&text=늦었다고%20생각할%20때가%20아직%20한발%20남았다&fontSize=40&animation=fadeIn&fontAlignY=55)
 
 
 <br/>
