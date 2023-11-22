@@ -46,6 +46,6 @@
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNGCHAEYOON&layout=compact&theme=tokyonight&langs_count=5&hide=aidl)  
-![haehyun-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGCHAEYOON&show_icons=true&theme=tokyonight)
+![JUNGCHAEYOON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGCHAEYOON&show_icons=true&theme=tokyonight)
 
 
